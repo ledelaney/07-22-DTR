@@ -16,4 +16,4 @@ Originate from [RawPixel](https://www.rawpixel.com/category/53/public-domain), a
 + [Russell's Sting Ray (_Trygon russellii_) from Illustrations of Indian Zoology (1830-1834) by John Edward Gray](https://www.rawpixel.com/image/329925/vintage-stingray-poster)
 + [Lying bison (Liggende bizon) (1915) by Samuel Jessurun de Mesquita](https://www.rawpixel.com/image/2700434/free-illustration-image-bull-woodcut-art)
 + [Beautiful photomechanical prints of Lotus Flowers (1887–1897) by Ogawa Kazumasa](https://www.rawpixel.com/image/523362/lotus-flowers-ogawa-kazumasa)
-+ [_Now's The Time_ Jean-Michel Basquiat (1985)](https://www.wikiart.org/en/jean-michel-basquiat/now-s-the-time)
++ [_Now's The Time_ by Jean-Michel Basquiat (1985)](https://www.wikiart.org/en/jean-michel-basquiat/now-s-the-time)
