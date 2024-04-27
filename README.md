@@ -1,10 +1,6 @@
 ![](css/07-2022-dtr-card.png)
 
-_there is no greater agony than bearing an untold story inside you: maya angelou_
-
-🎞️ [View Poster](https://ledelaney.org/talks/2022dtr/)
-
-## Slides
+## Poster
 
 Libraries and preliminary `HTML` file created with the R package `xaringan`, built on `remark.js`. The rest was (poorly) hard-coded the old-fashioned way.
 
